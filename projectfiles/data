@@ -1,1 +1,1 @@
-
+The GIS datasets needed to complete the HEC-HMS project were gathered, processed, and are available in the zipped GIS folder. There is an ArcMap project in the GIS directory. here are shapefiles that include the stream gage location, the NHD streams and watershed, and a buffered watershed (buffer length was 1 mile). The terrain dataset is included as well. The gridded precipitation data is in the MRMS_Precipitation.dss file in the Precipitation folder.
